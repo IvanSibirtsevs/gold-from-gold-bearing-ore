@@ -1,16 +1,16 @@
-# Коэффициент восстановления золота из золотосодержащей руды. 
+# Recovery ratio of gold from gold ore.
 
-Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий.
-Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. В вашем распоряжении данные с параметрами добычи и очистки.
-Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.
-Нужно:
-    - Подготовить данные;
-    - Провести исследовательский анализ данных;
-    - Построить и обучить модель.
-## Описания проекта
+Prepare a prototype machine learning model for Zifra. The company develops solutions for the efficient operation of industrial enterprises.
+The model should predict the recovery factor for gold from gold ore. You have data with extraction and cleaning parameters at your disposal.
+The model will help optimize production so as not to launch an enterprise with unprofitable characteristics.
+Need:
+    - Prepare data;
+    - Conduct exploratory data analysis;
+    - Build and train the model.
+## Project descriptions
 
 
 
-| Название проекта | Описание | Используемые библиотеки | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [восстановления золота из золотосодержащей руды](borrowers_reliability) |Подготовка прототипа модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий. | *pandas, numpy, sklearn, scipy, matplotlib, seaborn* |
+| Project name | Description | Used Libraries |
+| :--------------------- | :--------------------- | :--------------------- |
+| [recovery of gold from gold ore](borrowers_reliability) |Preparing a prototype machine learning model for Tsifra. The company develops solutions for the efficient operation of industrial enterprises. | *pandas, numpy, sklearn, scipy, matplotlib, seaborn* |
